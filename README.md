@@ -10,5 +10,5 @@
 - 次のコマを置ける場所をハイライトする機能がある。
 
 ## 画面イメージ
-![時間の決定](decide_time_screen.png)
-![対局画面](screen_image.png)
+<img src="decide_time_screen.png" width="30%"><img src="screen_image.png" width="30%">
+
